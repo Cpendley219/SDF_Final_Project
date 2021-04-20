@@ -1,15 +1,15 @@
 Open App or Browser
 	Home page appears
 while on homepage you see 3 sections, prosthetics, about us and contact us
-if you click prosthetics you will see two sections, news and products
+	if you click prosthetics you will see two sections, news and products
 	if you click news you will be directed to recent articles posted about our company
 	if you click products you will see all the various products we offer
-if you click about us you will see three sections, our team, affiliations and job opportunities
-	if you click our team you will be directed to a staff directory page which lists the team in alphabetical order with a headshot and thier position
-	if you click affiliations, it shows you what hospitals and clinics we work with that do these procedures
-	if you click job opportunities it will list any job opportunities if we currently have any
-if you click contact us you will see two sections
+		else if you click about us you will see three sections, our team, affiliations and job opportunities
+	if you click our team you will be directed to a staff directory page which lists the team in alphabetical order with a headshot and their position
+		else if you click affiliations, it shows you what hospitals and clinics we work with that do these procedures
+		else clicking job opportunities it will list any job opportunities if we currently have any
+		else clicking contact us you will see two sections
 	if you click join our mailing list you will be required to input your name and email address
-		once done you will receive a confirmation email
-	if you click set up a meeting you will be required to input your name, email and the type of prosthetic required.
-		once done a confirmation email will be sent out.
+	if email is valid done you will receive a confirmation email
+		else you click set up a meeting you will be required to input your name, email and the type of prosthetic required.
+	If email is valid and once done a confirmation email will be sent out.
